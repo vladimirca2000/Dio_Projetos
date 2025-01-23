@@ -3,9 +3,9 @@
 public class Produto
 {
     public int Id { get; set; }
-    public string Nome { get; set; }
-    public double Preco { get; set; }
-    public int Quantidade { get; set; }
-    public string Imagem { get; set; }
-    public string Categoria { get; set; }
+    public string Name { get; set; }
+    public double Price { get; set; }
+    public int Quantity { get; set; }
+    public string Image { get; set; }
+    public string Category { get; set; }
 }
