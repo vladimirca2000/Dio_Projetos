@@ -1,0 +1,14 @@
+.container__menu-bar ul{
+  display: flex;
+  flex-direction: row;
+}
+
+.container__menu-bar ul li{
+  margin: 1% 1% 1% 2%;
+  list-style: none;
+  font-size: 1.2rem;
+}
+
+.container__menu-bar ul li a:hover{
+  color: green
+}
