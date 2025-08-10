@@ -1,2 +1,2 @@
-# Dio_Projetos
-Repositório para os projetos desenvolvidos na plataforma Dio.me
+# Meus Estudos
+Repositório para os projetos desenvolvidos para estudos
