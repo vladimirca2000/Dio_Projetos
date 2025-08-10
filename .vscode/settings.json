@@ -1,0 +1,22 @@
+{
+    "git.repositoryScanMaxDepth": 0,
+    "git.autoRepositoryDetection": false,
+    "git.detectSubmodules": false,
+    "scm.repositories.visible": 1,
+    "git.scanRepositories": [
+        "."
+    ],
+    "git.ignoredRepositories": [
+        "Angular/Dio-Angular_Develop",
+        "CSharp/BaltaIo",
+        "CSharp/DIO-Trilha-C-Sharpe",
+        "CSharp/PocWebhook",
+        "CSharp/tirocurto",
+        "dio-lab-open-source",
+        "Outros/DIO-Trilha-Logica",
+        "Python/fastapi-async-sqlalchemy",
+        "Python/fastapi-do-zero",
+        "Python/trilha_python",
+        "VUE/Aprendizado-vue"
+    ]
+}
